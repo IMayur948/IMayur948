@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @IMayur948
-- 👀 I’m interested in programming.
 - 🌱 I’m currently learning.
 
 
